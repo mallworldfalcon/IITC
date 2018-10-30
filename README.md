@@ -1,8 +1,7 @@
 ingress intel total conversion (IITC)
 =====================================
 
-Since the [breunigs](https://github.com/breunigs/ingress-intel-total-conversion) IITC branch was deleted,
-[Jon Atkins](https://github.com/jonatkins) created this one to continue some development.
+Custom fork
 
 ## Users
 
